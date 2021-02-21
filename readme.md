@@ -6,6 +6,8 @@
  
 [扫雷](http://ehsbaiu.github.io/games/html5-minesweeper-game/index.html)
 
+[2048](http://ehsbaiu.github.io/games/html5-2048-game/index.htm)
+
 ## 帮助
 ### 翻卡片游戏
 1. 游戏刚开始加载时可能会出现乱码，稍微等待即可。
